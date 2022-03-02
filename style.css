@@ -26,3 +26,7 @@
         #subjectintro {
             color: rgb(106, 236, 193);
         }
+        div.coolbox{margin: 10px;
+            padding: 20px;
+            border: lightblue dotted 3px;
+         }
